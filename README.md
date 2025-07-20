@@ -1,6 +1,6 @@
 ![Artiero](img/github-header-image.png)
 
-<h6 align="center">I'm a passionate Informatics Teacher and Freelance Web Developer. I dedicate my time to educating students about digital literacy while also helping businesses and individuals build effective online solutions. Teaching keeps me sharp, while developing keeps me creative — and I enjoy doing both.</h6>
+<h4 align="center">I'm a passionate Informatics Teacher and Freelance Web Developer. I dedicate my time to educating students about digital literacy while also helping businesses and individuals build effective online solutions. Teaching keeps me sharp, while developing keeps me creative — and I enjoy doing both.</h4>
 
 ###
 
