@@ -1,6 +1,6 @@
-![Artiero](img/github-header-image1.png)
+![Artiero](img/github-header-image.png)
 
-<p align="left">I'm Alexanro, an informatics teacher and freelance web developer. I teach students to understand digital concepts while also helping individuals and businesses bring their ideas to life through the web. My dual role in education and development allows me to think critically, communicate clearly, and deliver practical, meaningful results.</p>
+<h6 align="center">I'm a passionate Informatics Teacher and Freelance Web Developer. I dedicate my time to educating students about digital literacy while also helping businesses and individuals build effective online solutions. Teaching keeps me sharp, while developing keeps me creative — and I enjoy doing both.</h6>
 
 ###
 
